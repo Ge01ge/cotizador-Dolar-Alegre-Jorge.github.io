@@ -1,0 +1,6 @@
+la idea es hacer un conversor de pesos argentinos a dolar delos 3 tres tipos de cotizaciones mas comunes: oficial, blue y ahorro.
+
+comienza con un saludo, seguidamente la eleccion de cotizacion, luego se le pide un monto no menor a 100 y no mayor a 100000. SI EL MONTO ES CORRECTO y de acuerdo a la cotizacion eleguida se hace la operacion y arroja una alerta con el resultado. Por ultimo un saludo de despedida.
+
+Ahora si el monto no corresponde sale una alerta pidiendo volver a ingresar el monto.
+
